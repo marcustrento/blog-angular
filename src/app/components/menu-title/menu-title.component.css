@@ -1,0 +1,20 @@
+.menu-container {
+    color: #FFFFFF;
+    font-family: 'segoe UI';
+}
+
+.menu-container > h1 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+    margin: 15px;
+    font-size: 135px;
+}
+
+.menu-container > hr {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    color: #36454F;
+}
